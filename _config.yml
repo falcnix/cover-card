@@ -2,7 +2,7 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'My name'
+title: 'Mohammed Saqeeb Shariff'
 description: 'I am amazing.'
 
 # Images
@@ -13,7 +13,7 @@ favicon: 'favicon.ico'
 # Online profiles
 #dribbble: 'mydribbble'
 facebook: 'myfacebook'
-twitter: 'mytwitter'
+twitter: 'falcnix'
 #linkedin: 'mylinkedin'
 instagram: 'myinsta'
 #pinterest: 'mypinterest'
@@ -31,8 +31,8 @@ github-user: 'mygithub'
 tumblr: 'mytumblr'
 weibo: 'myweibo'
 vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
+blog_url: 'falcnix.medium.com/'
+email: 'saqeeb06@gmail.com'
 messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
